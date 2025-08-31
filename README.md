@@ -23,7 +23,7 @@ Required for:
 Proof Videos and screenshots:
 - [🎥 Video 1 – Member Join + Welcome Message + Logs + Autorole](https://youtube.com/shorts/cGn00ZP3WAs?feature=share)
 -   [📷 Autorole Status](https://imgur.com/a/6v2IdwQ)
--   [📷 Logs Status](https://imgur.com/a/esG7wHN0
+-   [📷 Logs Status](https://imgur.com/a/esG7wHN0)
 - [🎥 Video 2 – Anti-Raid Detection](https://youtube.com/shorts/TKQJd1LkqBI?feature=share)
 -   [📷 Antilink Status](https://imgur.com/a/mJog8DI)
 - [🎥 Video 3 – Anti-Link tied to Member Join](https://youtube.com/shorts/SfYPCbvUGhc?feature=share)
@@ -52,10 +52,10 @@ Required for:
 Proof Videos and screenshots:
 - [🎥 Video 4 – Anti-Link deletes blocked link + logs attempt](https://youtube.com/shorts/SfYPCbvUGhc?feature=share)
 -   [📷 Antilink Allowed Domain List](https://imgur.com/a/hcGX0H2)
--   {📷 Antilink Allowed Domain Add](https://imgur.com/a/ask9wVC)
+-   [📷 Antilink Allowed Domain Add](https://imgur.com/a/ask9wVC)
 -   [📷 Antilink Ignore role add](https://imgur.com/a/u1qKyxF)
 -   [📷 Antilink Ignore Role List](https://imgur.com/a/d2v9McS)
-- {📷 Fun command /8ball showing message content usage](https://imgur.com/a/EXRLQlq)
+- [📷 Fun command /8ball showing message content usage](https://imgur.com/a/EXRLQlq)
 - [📷 Message State Update Logs](https://imgur.com/a/xHN4v45)
 
 
