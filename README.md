@@ -23,7 +23,7 @@ Required for:
 Proof Videos and screenshots:
 - [🎥 Video 1 – Member Join + Welcome Message + Logs + Autorole](https://youtube.com/shorts/cGn00ZP3WAs?feature=share)
 -   [📷 Autorole Status](https://imgur.com/a/6v2IdwQ)
--   [📷 Logs Status](https://imgur.com/a/esG7wHN0)
+-   [📷 Logs Status](https://imgur.com/a/esG7wHN)
 - [🎥 Video 2 – Anti-Raid Detection](https://youtube.com/shorts/TKQJd1LkqBI?feature=share)
 -   [📷 Antilink Status](https://imgur.com/a/mJog8DI)
 - [🎥 Video 3 – Anti-Link tied to Member Join](https://youtube.com/shorts/SfYPCbvUGhc?feature=share)
