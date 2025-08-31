@@ -4,12 +4,12 @@ This document provides detailed proof of why CRYTX requires the Server Members I
 
 
 ## IMPORTANT NOTE FOR REVIEWER:
-Our main bot, Crytx, is currently in over 280 servers. Due to Discord’s restrictions, we cannot enable privileged intents on the main bot before verification.
-To demonstrate the functionality and necessity of these intents, we created a beta bot in a smaller number of servers, where all features using privileged intents are fully functional.
-The beta bot allowed us to test and produce proof for features that require the following intents: GUILD_MEMBERS, GUILD_PRESENCES, and MESSAGE_CONTENT.
-In our main bot, these features are disabled until we receive verification. All proofs submitted are taken from the beta bot demonstrating the exact features we plan to enable in the main bot after verification. 
-In the main bot, features that require these privileged intents are disabled. We have added an embed labeled “Feature Disabled” on these features to indicate they are inactive, and we have included proofs of this in the application.
-This approach ensures user privacy and compliance while proving the necessity of privileged intents for the core functionality of the bot.
+- Our main bot, Crytx, is currently in over 280 servers. Due to Discord’s restrictions, we cannot enable privileged intents on the main bot before verification.
+- To demonstrate the functionality and necessity of these intents, we created a beta bot in a smaller number of servers, where all features using privileged intents are fully functional.
+- The beta bot allowed us to test and produce proof for features that require the following intents: GUILD_MEMBERS, GUILD_PRESENCES, and MESSAGE_CONTENT.
+- In our main bot, these features are disabled until we receive verification. All proofs submitted are taken from the beta bot demonstrating the exact features we plan to enable in the main bot after verification. 
+- In the main bot, features that require these privileged intents are disabled. We have added an embed labeled “Feature Disabled” on these features to indicate they are inactive, and we have included proofs of this in the application.
+- This approach ensures user privacy and compliance while proving the necessity of privileged intents for the core functionality of the bot.
 
 
 ## Server Members Intent
@@ -22,13 +22,13 @@ Required for:
 
 Proof Videos and screenshots:
 - [🎥 Video 1 – Member Join + Welcome Message + Logs + Autorole](https://youtube.com/shorts/cGn00ZP3WAs?feature=share)
-  [📷 Autorole Status](https://imgur.com/a/6v2IdwQ)
-  [📷 Logs Status](https://imgur.com/a/esG7wHN0
+-   [📷 Autorole Status](https://imgur.com/a/6v2IdwQ)
+-   [📷 Logs Status](https://imgur.com/a/esG7wHN0
 - [🎥 Video 2 – Anti-Raid Detection](https://youtube.com/shorts/TKQJd1LkqBI?feature=share)
-  [📷 Antilink Status](https://imgur.com/a/mJog8DI)
+-   [📷 Antilink Status](https://imgur.com/a/mJog8DI)
 - [🎥 Video 3 – Anti-Link tied to Member Join](https://youtube.com/shorts/SfYPCbvUGhc?feature=share)
-  [📷 Antilink Status When Inactive](https://imgur.com/a/j3nne0j)
-  [📷 Antilink Status When Active](https://imgur.com/a/v7dg2PH)
+-   [📷 Antilink Status When Inactive](https://imgur.com/a/j3nne0j)
+-   [📷 Antilink Status When Active](https://imgur.com/a/v7dg2PH)
 - [📷/userinfo command showing member details](https://imgur.com/a/pZiWnzU)
 - [📷/serverinfo command showing server details](https://imgur.com/a/tHhW8Bc)
 - [📷 Main Bot Joining Functionality While Intents Are Disabled From Discord](https://imgur.com/a/XHCSkBg)
@@ -51,10 +51,10 @@ Required for:
 
 Proof Videos and screenshots:
 - [🎥 Video 4 – Anti-Link deletes blocked link + logs attempt](https://youtube.com/shorts/SfYPCbvUGhc?feature=share)
-  [📷 Antilink Allowed Domain List](https://imgur.com/a/hcGX0H2)
-  {📷 Antilink Allowed Domain Add](https://imgur.com/a/ask9wVC)
-  [📷 Antilink Ignore role add](https://imgur.com/a/u1qKyxF)
-  [📷 Antilink Ignore Role List](https://imgur.com/a/d2v9McS)
+-   [📷 Antilink Allowed Domain List](https://imgur.com/a/hcGX0H2)
+-   {📷 Antilink Allowed Domain Add](https://imgur.com/a/ask9wVC)
+-   [📷 Antilink Ignore role add](https://imgur.com/a/u1qKyxF)
+-   [📷 Antilink Ignore Role List](https://imgur.com/a/d2v9McS)
 - {📷 Fun command /8ball showing message content usage](https://imgur.com/a/EXRLQlq)
 - [📷 Message State Update Logs](https://imgur.com/a/xHN4v45)
 
